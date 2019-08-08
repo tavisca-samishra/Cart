@@ -1,0 +1,9 @@
+C:\Users\smishra\source\repos\Cart\Cart\bin\Debug\netcoreapp2.1\Cart.deps.json
+C:\Users\smishra\source\repos\Cart\Cart\bin\Debug\netcoreapp2.1\Cart.dll
+C:\Users\smishra\source\repos\Cart\Cart\bin\Debug\netcoreapp2.1\Cart.pdb
+C:\Users\smishra\source\repos\Cart\Cart\obj\Debug\netcoreapp2.1\Cart.csprojAssemblyReference.cache
+C:\Users\smishra\source\repos\Cart\Cart\obj\Debug\netcoreapp2.1\Cart.csproj.CoreCompileInputs.cache
+C:\Users\smishra\source\repos\Cart\Cart\obj\Debug\netcoreapp2.1\Cart.AssemblyInfoInputs.cache
+C:\Users\smishra\source\repos\Cart\Cart\obj\Debug\netcoreapp2.1\Cart.AssemblyInfo.cs
+C:\Users\smishra\source\repos\Cart\Cart\obj\Debug\netcoreapp2.1\Cart.dll
+C:\Users\smishra\source\repos\Cart\Cart\obj\Debug\netcoreapp2.1\Cart.pdb
