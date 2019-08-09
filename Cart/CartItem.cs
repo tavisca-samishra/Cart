@@ -6,25 +6,21 @@ namespace Cart
 {
     public class CartItem
     {
-        private Dictionary<IProduct, int> _cartItems = new Dictionary<IProduct, int>();
-        public Dictionary<IProduct, int> ItemList()
+        private Dictionary<Product, int> _cartItems = new Dictionary<Product, int>();
+        public Dictionary<Product, int> ItemList()
         {
             return _cartItems;
         }
-        public void AddItem(IProduct product)
+        public void AddItem(Product product,int quantity)
         {
-            if (_cartItems.ContainsKey(product))
-            {
-                _cartItems[product] += 1;
-            }
+            if (quantity < 1)
+                throw new NotSupportedException();
             else
-            {
-                _cartItems[product] = 1;
-            }
+                _cartItems[product] = quantity;
         }
-        public Double GetPrice(IProduct product)
+        public Dictionary<Product,int> GetItems()
         {
-            return _cartItems[product] * product.GetPriceAfterProductDiscount();
+            return _cartItems;
         }
 
     }

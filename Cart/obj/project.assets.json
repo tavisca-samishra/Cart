@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\smishra\\Pictures\\Cart\\Cart\\Cart.csproj",
+      "projectUniqueName": "C:\\Users\\smishra\\source\\repos\\Cart\\Cart\\Cart.csproj",
       "projectName": "Cart",
-      "projectPath": "C:\\Users\\smishra\\Pictures\\Cart\\Cart\\Cart.csproj",
+      "projectPath": "C:\\Users\\smishra\\source\\repos\\Cart\\Cart\\Cart.csproj",
       "packagesPath": "C:\\Users\\smishra\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\smishra\\Pictures\\Cart\\Cart\\obj\\",
+      "outputPath": "C:\\Users\\smishra\\source\\repos\\Cart\\Cart\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -5867,11 +5867,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\smishra\\Pictures\\Cart\\Cart.Tests\\Cart.Tests.csproj",
+      "projectUniqueName": "C:\\Users\\smishra\\source\\repos\\Cart\\Cart.Tests\\Cart.Tests.csproj",
       "projectName": "Cart.Tests",
-      "projectPath": "C:\\Users\\smishra\\Pictures\\Cart\\Cart.Tests\\Cart.Tests.csproj",
+      "projectPath": "C:\\Users\\smishra\\source\\repos\\Cart\\Cart.Tests\\Cart.Tests.csproj",
       "packagesPath": "C:\\Users\\smishra\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\smishra\\Pictures\\Cart\\Cart.Tests\\obj\\",
+      "outputPath": "C:\\Users\\smishra\\source\\repos\\Cart\\Cart.Tests\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -5890,8 +5890,8 @@
       "frameworks": {
         "netcoreapp2.1": {
           "projectReferences": {
-            "C:\\Users\\smishra\\Pictures\\Cart\\Cart\\Cart.csproj": {
-              "projectPath": "C:\\Users\\smishra\\Pictures\\Cart\\Cart\\Cart.csproj"
+            "C:\\Users\\smishra\\source\\repos\\Cart\\Cart\\Cart.csproj": {
+              "projectPath": "C:\\Users\\smishra\\source\\repos\\Cart\\Cart\\Cart.csproj"
             }
           }
         }
