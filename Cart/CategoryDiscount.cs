@@ -6,7 +6,7 @@ namespace Cart
 {
     public class CategoryDiscount 
     {
-        Dictionary<Category, int> _categoryDiscountList = new Dictionary<Category, int>();
+        private Dictionary<Category, int> _categoryDiscountList = new Dictionary<Category, int>();
 
         public void AddCategoryDiscount(Category category ,int discountPercent)
         {

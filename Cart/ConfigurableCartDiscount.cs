@@ -6,7 +6,7 @@ namespace Cart
 {
     public class ConfigurableCartDiscount:IDiscount
     {
-        int _discountPercent;
+        private int _discountPercent;
 
         public ConfigurableCartDiscount(int discountPercent)
         {
