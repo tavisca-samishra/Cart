@@ -7,10 +7,6 @@ namespace Cart
     public class CartItem
     {
         private Dictionary<Product, int> _cartItems = new Dictionary<Product, int>();
-        public Dictionary<Product, int> ItemList()
-        {
-            return _cartItems;
-        }
         public void AddItem(Product product,int quantity)
         {
             if (quantity < 1)
